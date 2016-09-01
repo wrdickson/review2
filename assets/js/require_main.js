@@ -2,7 +2,7 @@
 requirejs.config({
   //var mtoBaseUrl was passed in via PHP in index.php
   waitSeconds: 200,
-  baseUrl: "http://localhost/filmReview1/assets/js",
+  baseUrl: "http://localhost/review2/assets/js",
   paths: {
     backbone: "vendor/backbone",
     jquery: "vendor/jquery",
